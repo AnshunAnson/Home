@@ -38,8 +38,8 @@ AI Agent (人工智能代理) 是能够自主感知环境、做出决策、执�
 
 ## 🔗 相关链接
 
-- [[Notes/Agent技术/AI基础/Prompt工程|Prompt工程]] - 与 Agent 交互的核心
-- [[Notes/Agent技术/UE5集成/UE5AI助手|UE5 AI助手]] - 游戏中的 Agent 应用
+- [[Prompt工程]] - 与 Agent 交互的核心
+- [[UE5AI助手]] - 游戏中的 Agent 应用
 
 ## 📚 学习资源
 

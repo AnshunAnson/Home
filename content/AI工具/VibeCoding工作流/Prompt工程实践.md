@@ -125,9 +125,10 @@
 
 ## 🔗 相关笔记
 
-- [[Notes/AI工具/VibeCoding工作流/AI辅助开发流程|AI 辅助开发流程]]
-- [[Notes/AI工具/BlueprintAI/蓝图代码生成|蓝图代码生成]]
+- [[AI工具/VibeCoding工作流/AI辅助开发流程|AI 辅助开发流程]]
+- [[AI工具/BlueprintAI/蓝图代码生成|蓝图代码生成]]
 
 ---
 
 > **练习**: 每次开发前先写好 Prompt，磨刀不误砍柴工
+

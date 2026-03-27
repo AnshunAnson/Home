@@ -46,11 +46,12 @@ aliases: [UI材质制作, UI Material, 界面材质]
 
 ## 🔗 相关链接
 
-- [[Notes/个人技能/我的技能卡片|我的技能卡片]] - UI材质 85%
-- [[Notes/领域知识/PBR渲染|PBR渲染]] - 材质基础
-- [[Notes/核心技能/编辑器工具/UE编辑器|UE编辑器]] - 工具开发
+- [[个人技能/我的技能卡片|我的技能卡片]] - UI材质 85%
+- [[领域知识/PBR渲染|PBR渲染]] - 材质基础
+- [[核心技能/编辑器工具/UE编辑器|UE编辑器]] - 工具开发
 
 ## 📚 学习资源
 
 - [UE5 Material documentation](https://docs.unrealengine.com/5.0/zh-CN/rendering-and-graphics/)
 - [UI Material Techniques](https://www.youtube.com/watch?v=1234567890)
+

@@ -45,16 +45,17 @@ UE编辑器开发工程师负责为 Unreal Engine 5 设计和实现工具、编�
 ## 🔗 相关链接
 
 ### 正向链接
-- [[Notes/编程语言/C++|C++]] - 核心开发语言
-- [[Notes/工具链/UnrealEngine5|UnrealEngine5]] - 开发和应用平台
-- [[Notes/工具链/Blender|Blender]] - 资产处理配套
+- [[编程语言/C++|C++]] - 核心开发语言
+- [[工具链/UnrealEngine5|UnrealEngine5]] - 开发和应用平台
+- [[工具链/Blender|Blender]] - 资产处理配套
 
 ### 反向链接
-- 被 [[Notes/编程语言/C++]] 引用
-- 被 [[Notes/工具链/UnrealEngine5]] 引用
+- 被 [[编程语言/C++]] 引用
+- 被 [[工具链/UnrealEngine5]] 引用
 
 ## 📚 学习资源
 
 - [UE5 Editor Extensions 文档](https://docs.unrealengine.com/5.0/zh-CN/)
 - [Slate UI Framework](https://docs.unrealengine.com/5.0/zh-CN/ui/)
 - [UE5 Python 脚本](https://docs.unrealengine.com/5.0/zh-CN/)
+

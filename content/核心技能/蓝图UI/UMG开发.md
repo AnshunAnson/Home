@@ -42,14 +42,15 @@ Unreal Engine 5 游戏 GamePlay 程序开发，负责实现玩家交互体验、
 ## 🔗 相关链接
 
 ### 正向链接
-- [[Notes/工具链/UnrealEngine5|UnrealEngine5]] - 游戏引擎
-- [[Notes/核心技能/蓝图UI/UMG基础|UMG基础]] - UI 框架
+- [[工具链/UnrealEngine5|UnrealEngine5]] - 游戏引擎
+- [[核心技能/蓝图UI/UMG基础|UMG基础]] - UI 框架
 
 ### 反向链接
-- 被 [[Notes/工具链/UnrealEngine5|UnrealEngine5]] 引用
+- 被 [[工具链/UnrealEngine5|UnrealEngine5]] 引用
 
 ## 📚 学习资源
 
 - [UE5 官方文档 - Gameplay](https://docs.unrealengine.com/5.0/zh-CN/gameplay-around/)
 - [Unreal Engine GitHub](https://github.com/EpicGames/UnrealEngine)
 - [UE5 Gameplay 编程指南](https://docs.unrealengine.com/5.0/zh-CN/gameplay-systems/)
+

@@ -46,10 +46,11 @@ UMG (Unreal Motion Graphics) 是 UE5 的 UI 开发框架，用于创建游戏界
 
 ## 🔗 相关链接
 
-- [[Notes/个人技能/我的技能卡片|我的技能卡片]] - Blueprint 90%
-- [[Notes/核心技能/编辑器工具/UE编辑器|UE编辑器]] - 编辑器工具
+- [[个人技能/我的技能卡片|我的技能卡片]] - Blueprint 90%
+- [[核心技能/编辑器工具/UE编辑器|UE编辑器]] - 编辑器工具
 
 ## 📚 学习资源
 
 - [UE5 UMG 文档](https://docs.unrealengine.com/5.0/zh-CN/ui/)
 - [UMG Best Practices](https://www.unrealengine.com/zh-CN/)
+

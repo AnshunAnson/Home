@@ -45,9 +45,10 @@
 
 ## 🔗 相关笔记
 
-- [[Notes/核心技能/智能座舱HMI/HMI动效设计|HMI动效设计]]
-- [[Notes/招聘分析/Blueprint开发岗位|Blueprint开发岗位]]
+- [[核心技能/智能座舱HMI/HMI动效设计|HMI动效设计]]
+- [[招聘分析/Blueprint开发岗位|Blueprint开发岗位]]
 
 ## 📝 项目时间
 
 2023.10 - 2023.11
+

@@ -12,12 +12,12 @@
 
 ### 🔴 首选: UE编辑器开发
 
-- **UE 编辑器开发** (深圳/广州) ⭐⭐⭐⭐⭐ → [[Notes/核心技能/编辑器工具/UE编辑器|UE编辑器]]
-- **Blueprint UI 开发** (深圳/广州) ⭐⭐⭐⭐⭐ → [[Notes/核心技能/蓝图UI/UMG基础|UMG基础]]
+- **UE 编辑器开发** (深圳/广州) ⭐⭐⭐⭐⭐ → [[核心技能/编辑器工具/UE编辑器|UE编辑器]]
+- **Blueprint UI 开发** (深圳/广州) ⭐⭐⭐⭐⭐ → [[核心技能/蓝图UI/UMG基础|UMG基础]]
 
 ### 🟡 次选: 技术美术
 
-- **技术美术 TA** (广州) ⭐⭐⭐⭐ → [[Notes/核心技能/蓝图UI/UI材质制作|UI材质]]
+- **技术美术 TA** (广州) ⭐⭐⭐⭐ → [[核心技能/蓝图UI/UI材质制作|UI材质]]
 
 ---
 
@@ -25,18 +25,18 @@
 
 ### Vibe Coding 工作流 (新增)
 
-- [[Notes/AI工具/VibeCoding工作流/AI辅助开发流程|AI辅助开发流程]]
-- [[Notes/AI工具/VibeCoding工作流/Prompt工程实践|Prompt 工程实践]]
-- [[Notes/AI工具/VibeCoding工作流/AI代码审查|AI 代码审查]]
+- [[AI工具/VibeCoding工作流/AI辅助开发流程|AI辅助开发流程]]
+- [[AI工具/VibeCoding工作流/Prompt工程实践|Prompt 工程实践]]
+- [[AI工具/VibeCoding工作流/AI代码审查|AI 代码审查]]
 
 ### AI + Blueprint
 
-- [[Notes/AI工具/工具开发/Blueprint编辑器AI|Blueprint 编辑器 AI]]
-- [[Notes/AI工具/UE5集成/蓝图代码生成|蓝图代码生成]]
+- [[AI工具/工具开发/Blueprint编辑器AI|Blueprint 编辑器 AI]]
+- [[AI工具/UE5集成/蓝图代码生成|蓝图代码生成]]
 
 ### AI + 特效
 
-- [[Notes/AI工具/工具开发/NiagaraAI助手|Niagara AI 助手]]
+- [[AI工具/工具开发/NiagaraAI助手|Niagara AI 助手]]
 
 ---
 
@@ -123,3 +123,4 @@ graph LR
 ---
 
 *最后更新: 2026-03-27*
+

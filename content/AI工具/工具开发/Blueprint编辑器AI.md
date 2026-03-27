@@ -58,11 +58,12 @@ class UBlueprintAIAssist : public UEditorPlugin {
 
 ## 🔗 相关链接
 
-- [[Notes/Agent技术\UE5集成\UE5AI助手|UE5 AI助手]] - 集成基础
-- [[Notes/Agent技术\UE5集成\蓝图代码生成|蓝图代码生成]] - 代码生成
-- [[Notes/核心技能/编辑器工具/UE编辑器|UE编辑器]] - 工具开发岗位
+- [[Agent技术\UE5集成\UE5AI助手|UE5 AI助手]] - 集成基础
+- [[Agent技术\UE5集成\蓝图代码生成|蓝图代码生成]] - 代码生成
+- [[核心技能/编辑器工具/UE编辑器|UE编辑器]] - 工具开发岗位
 
 ## 📚 学习资源
 
 - [UE5 Editor Utility Widgets](https://docs.unrealengine.com/)
 - [Slate UI Framework](https://docs.unrealengine.com/5.0/zh-CN/ui/)
+

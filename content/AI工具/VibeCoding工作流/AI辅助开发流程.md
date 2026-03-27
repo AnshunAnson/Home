@@ -92,9 +92,10 @@
 
 ## 🔗 相关笔记
 
-- [[Notes/AI工具/VibeCoding工作流/Prompt工程实践|Prompt 工程实践]]
-- [[Notes/AI工具/BlueprintAI/蓝图代码生成|蓝图代码生成]]
+- [[AI工具/VibeCoding工作流/Prompt工程实践|Prompt 工程实践]]
+- [[AI工具/BlueprintAI/蓝图代码生成|蓝图代码生成]]
 
 ---
 
 > **记住**: AI 时代，会问问题比知道答案更重要
+

@@ -126,9 +126,10 @@
 
 ## 🔗 相关笔记
 
-- [[Notes/AI工具/VibeCoding工作流/AI辅助开发流程|AI 辅助开发流程]]
-- [[Notes/AI工具/VibeCoding工作流/Prompt工程实践|Prompt 工程实践]]
+- [[AI工具/VibeCoding工作流/AI辅助开发流程|AI 辅助开发流程]]
+- [[AI工具/VibeCoding工作流/Prompt工程实践|Prompt 工程实践]]
 
 ---
 
 > **建议**: 每次让 AI 生成代码后，都用 AI 审查一遍
+
