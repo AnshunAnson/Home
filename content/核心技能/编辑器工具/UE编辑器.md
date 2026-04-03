@@ -13,10 +13,9 @@ UE编辑器开发工程师负责为 Unreal Engine 5 设计和实现工具、编�
 ## 🎯 核心概念
 
 1. **Editor Utility Widgets (EUW)**: 使用 Slate/UMG 创建编辑器内工具界面
-2. **Blutility**: 无需 C++ 的编辑器脚本扩展
-3. **Python scripting**: 通过 PySide2+UE Python 实现工具
-4. **Editor Module**: C++ 编辑器模块开发，自定义 Asset/Importer
-5. **Commandlet**: 命令行批处理工具，自动化重复任务
+2. **Python scripting**: 通过 PySide2+UE Python 实现工具
+3. **Editor Module**: C++ 编辑器模块开发，自定义 Asset/Importer
+4. **Commandlet**: 命令行批处理工具，自动化重复任务
 
 ## 💼 行业信息
 

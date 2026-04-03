@@ -46,12 +46,13 @@ aliases: [UE5 LLM, Unreal AI, UE5 AI Integration]
 
 ## 🔗 相关链接
 
-- [[Agent技术\UE5集成\蓝图代码生成|蓝图代码生成]] - AI 生成蓝图
-- [[Agent技术\工具开发\Blueprint编辑器AI|Blueprint 编辑器 AI]] - 编辑器增强
+- [[AI工具/UE5集成/蓝图代码生成|蓝图代码生成]] - AI 生成蓝图
+- [[AI工具/工具开发/Blueprint编辑器AI|Blueprint 编辑器 AI]] - 编辑器增强
 - [[核心技能/编辑器工具/UE编辑器|UE编辑器]] - 工具开发岗位
 
 ## 📚 学习资源
 
 - [OpenAI UE5 Plugin](https://www.unrealengine.com/marketplace/zh-CN/product/openai)
 - [ChatGPT-4 Integration](https://github.com/)
+
 

@@ -1,0 +1,133 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1774576356237,
+  "projectRoot": "E:\\AnShunConfig\\quartz",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": ">=22",
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "tsconfig.json"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "preact",
+        "version": "10.28.2",
+        "category": "frontend"
+      },
+      {
+        "name": "esbuild",
+        "version": "0.27.2",
+        "category": "build"
+      }
+    ],
+    "packageManager": "npm",
+    "runtime": "Node.js 22"
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": "npm test",
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {
+      "quartz": "./quartz/bootstrap-cli.mjs",
+      "docs": "npx quartz build --serve -d docs",
+      "check": "tsc --noEmit && npx prettier . --check",
+      "format": "npx prettier . --write",
+      "test": "tsx --test",
+      "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs",
+      "public"
+    ],
+    "gitBranches": {
+      "defaultBranch": "v4",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 12,
+      "lastAccessed": 1774576356190,
+      "keyFiles": [
+        "authoring content.md",
+        "build.md",
+        "configuration.md",
+        "hosting.md",
+        "index.md"
+      ]
+    },
+    "public": {
+      "path": "public",
+      "purpose": "Public files",
+      "fileCount": 43,
+      "lastAccessed": 1774576356216,
+      "keyFiles": [
+        "404.html",
+        "AgentWorkflow.html",
+        "AI-Agent.html",
+        "AI-Blueprint-Coding.html",
+        "AI粒子特效.html"
+      ]
+    },
+    "quartz": {
+      "path": "quartz",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1774576356217,
+      "keyFiles": [
+        "bootstrap-cli.mjs",
+        "bootstrap-worker.mjs",
+        "build.ts",
+        "cfg.ts",
+        "worker.ts"
+      ]
+    },
+    "web-articles": {
+      "path": "web-articles",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1774576356218,
+      "keyFiles": []
+    },
+    "quartz\\components": {
+      "path": "quartz\\components",
+      "purpose": "UI components",
+      "fileCount": 29,
+      "lastAccessed": 1774576356222,
+      "keyFiles": [
+        "ArticleTitle.tsx",
+        "Backlinks.tsx",
+        "Body.tsx"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

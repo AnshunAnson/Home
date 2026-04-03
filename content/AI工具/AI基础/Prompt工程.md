@@ -44,11 +44,12 @@ Step 3: 提供优化建议
 
 ## 🔗 相关链接
 
-- [[Agent技术\AI基础\AIAgent基础|AI Agent]] - Agent 技术基础
-- [[Agent技术\工具开发\Blueprint自动化|Blueprint 自动化]] - UE5 中的应用
+- [[AI工具/AI基础/AIAgent基础|AI Agent]] - Agent 技术基础
+- [[AI工具/工具开发/Blueprint自动化|Blueprint 自动化]] - UE5 中的应用
 
 ## 📚 学习资源
 
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [OpenAI Prompt Examples](https://platform.openai.com/examples)
+
 

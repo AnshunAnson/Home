@@ -47,12 +47,13 @@ AI 观察：
 
 ## 🔗 相关链接
 
-- [[Agent技术\UE5集成\UE5AI助手|UE5 AI助手]] - AI 集成
-- [[Agent技术\工具开发\Blueprint自动化|Blueprint 自动化]] - 自动化工具
+- [[AI工具/UE5集成/UE5AI助手|UE5 AI助手]] - AI 集成
+- [[AI工具/工具开发/Blueprint自动化|Blueprint 自动化]] - 自动化工具
 - [[核心技能/编辑器工具/UE编辑器|UE编辑器]] - 工具开发
 
 ## 📚 学习资源
 
 - [Niagara 系统文档](https://docs.unrealengine.com/5.0/zh-CN/)
 - [Niagara 官方教程](https://www.youtube.com/watch?v=1234567890)
+
 

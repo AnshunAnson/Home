@@ -9,7 +9,7 @@
 ## 📌 一句话定义
 
 基于 UI 需求输出 HMI 概念效果视频，使用 Niagara 粒子自定义变换和半透明描边材质。
-
+![[SEQ_2Outline.FinalImage.0000.mp4]]
 ## 🎯 项目目标
 
 - 基于 UI 需求制作 HMI 概念效果

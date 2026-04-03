@@ -52,12 +52,13 @@ AI 触发蓝图：
 
 ## 🔗 相关链接
 
-- [[Agent技术\工具开发\Blueprint编辑器AI|Blueprint 编辑器 AI]] - 编辑器增强
+- [[AI工具/工具开发/Blueprint编辑器AI|Blueprint 编辑器 AI]] - 编辑器增强
 - [[核心技能/编辑器工具/UE编辑器|UE编辑器]] - 工具开发岗位
-- [[Notes\Agent技术\UE5集成\UE5AI助手|UE5 AI助手]] - AI 集成
+- [[AI工具/UE5集成/UE5AI助手|UE5 AI助手]] - AI 集成
 
 ## 📚 学习资源
 
 - [UE5 Editor Utility Widgets](https://docs.unrealengine.com/5.0/zh-CN/)
 - [Blutility 文档](https://docs.unrealengine.com/)
+
 
